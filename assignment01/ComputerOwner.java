@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  * Class ComputerOwner is a composite of a Person, the owner, and a list
- * of Computers that the Person owns. Operations are available to add to, 
+ * of Computers that the Person owns. Operations are available to add to,
  * query, and delete from the list.
  * @author CS 140
  *
@@ -28,13 +28,13 @@ public class ComputerOwner {
 		return owner;
 	}
 	/**
-	 * Getter method for the list of computers 
+	 * Getter method for the list of computers
 	 * @return the list of computers of this ComputerOwner
 	 */
 	public List<Computer> getComputers() {
 		return computers;
 	}
-	
+
 	/**
 	 * Adds a Computer to the list of Computers of this ComputerOwner
 	 * @param comp a Computer to add to the list of Computers
@@ -51,7 +51,7 @@ public class ComputerOwner {
 	public void removeComputer(int i) {
 		computers.remove(i);
 	}
-	
+
 	@Override
 	public String toString() {
 		return "Computer List, Owner: " + owner + "\nComputers: " + computers;

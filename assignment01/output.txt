@@ -1,0 +1,113 @@
+
+TESTS FOR Computer.java:
+brand1, very slow, 15GB Memory, 1.0TB Solid State Drive, Price: $5.50 
+brand2, medium speed, 16GB Memory, 999GB Hard Drive, Price: $4.50 
+brand3, fast, 17GB Memory, 888GB Solid State Drive, Price: $3.50 
+brand4, very fast, 18GB Memory, 777GB Hard Drive, Price: $2.50 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-03-30, NYC, NY, USA
+Date and place of birth: 2000-03-30, LA, CA, USA
+Date and place of birth: 2001-03-30, CHI, IL, USA
+Date and place of birth: 1999-05-30, Seoul, Korea
+Date and place of birth: 1234-02-28, Shanghai, China
+true
+true
+true
+false
+
+TESTS FOR Computer.java:
+brand1, very slow, 15GB Memory, 1.0TB Solid State Drive, Price: $5.50 
+brand2, medium speed, 16GB Memory, 999GB Hard Drive, Price: $4.50 
+brand3, fast, 17GB Memory, 888GB Solid State Drive, Price: $3.50 
+brand4, very fast, 18GB Memory, 777GB Hard Drive, Price: $2.50 
+
+TESTS FOR SimpleDate.java:
+
+TESTS FOR StreetUSAddress.java
+345 Chambers Street
+New York, NY 10282
+123 XYZ Street
+FL 2
+New York, NY 13123
+
+TESTS FOR ComputerOwner.java:
+
+TESTS FOR Computer.java:
+brand1, very slow, 15GB Memory, 1.0TB Solid State Drive, Price: $5.50 
+brand2, medium speed, 16GB Memory, 999GB Hard Drive, Price: $4.50 
+brand3, fast, 17GB Memory, 888GB Solid State Drive, Price: $3.50 
+brand4, very fast, 18GB Memory, 777GB Hard Drive, Price: $2.50 
+
+TESTS FOR StreetUSAddress.java
+345 Chambers Street
+New York, NY 10282
+123 XYZ Street
+FL 2
+New York, NY 13123
+
+TESTS FOR ComputerOwner.java:
+
+TESTS FOR SimpleDate.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-03-30, NYC, NY, USA
+Date and place of birth: 2000-03-30, LA, CA, USA
+Date and place of birth: 2001-03-30, CHI, IL, USA
+Date and place of birth: 1999-05-30, Seoul, Korea
+Date and place of birth: 1234-02-28, Shanghai, China
+true
+true
+true
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-03-30, NYC, NY, USA
+Date and place of birth: 2000-03-30, LA, CA, USA
+Date and place of birth: 2001-03-30, CHI, IL, USA
+Date and place of birth: 1999-05-30, Seoul, Korea
+Date and place of birth: 1234-02-28, Shanghai, China
+true
+true
+true
+false
+
+TESTS FOR Person.java
+Javier	Liu	11111,
+ Date and Place of Birth: 2000-03-30	NYC, NY, USA
+123 123 123
+456 456	NYC	NY	789-789
+
+TESTS FOR Computer.java:
+brand1, very slow, 15GB Memory, 1.0TB Solid State Drive, Price: $5.50 
+brand2, medium speed, 16GB Memory, 999GB Hard Drive, Price: $4.50 
+brand3, fast, 17GB Memory, 888GB Solid State Drive, Price: $3.50 
+brand4, very fast, 18GB Memory, 777GB Hard Drive, Price: $2.50 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-03-03, NYC, NY, USA
+Date and place of birth: 2000-03-03, LA, CA, USA
+Date and place of birth: 2001-03-03, CHI, IL, USA
+Date and place of birth: 1999-05-03, Seoul, Korea
+Date and place of birth: 1234-02-03, Shanghai, China
+true
+true
+true
+false
+
+TESTS FOR StreetUSAddress.java
+345 Chambers Street
+New York, NY 10282
+123 XYZ Street
+FL 2
+New York, NY 13123
+
+TESTS FOR Person.java
+Javier	Liu	11111,
+ Date and Place of Birth: 2000-03-30	NYC, NY, USA
+123 123 123
+456 456	NYC	NY	789-789
+
+TESTS FOR ComputerOwner.java:
+
+TESTS FOR SimpleDate.java:
